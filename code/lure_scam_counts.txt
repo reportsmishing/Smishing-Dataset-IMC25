@@ -1,0 +1,7 @@
+time/urgency [26081]: ["banking": 13913, "others": 3746, "delivery": 3493, "government": 2636, "telecom": 1477, "spam": 776, "hey mum/dad": 35, "wrong number": 3, "Unknown": 2]
+authority [26070]: ["banking": 14764, "others": 3434, "government": 3199, "delivery": 2390, "telecom": 1936, "spam": 344, "wrong number": 2, "Unknown": 1]
+distraction [10602]: ["banking": 5120, "others": 2159, "delivery": 1470, "telecom": 915, "government": 549, "spam": 337, "wrong number": 28, "hey mum/dad": 23, "Unknown": 1]
+need and greed [7031]: ["others": 1844, "banking": 1683, "spam": 1563, "government": 1049, "telecom": 463, "delivery": 426, "wrong number": 2, "hey mum/dad": 1]
+kindness [655]: ["others": 277, "hey mum/dad": 263, "government": 38, "wrong number": 31, "banking": 19, "telecom": 16, "spam": 8, "delivery": 3]
+herd [393]: ["spam": 224, "others": 126, "banking": 15, "telecom": 10, "delivery": 9, "government": 7, "wrong number": 2]
+dishonesty [165]: ["others": 86, "spam": 34, "banking": 29, "telecom": 7, "government": 4, "delivery": 2, "hey mum/dad": 2, "wrong number": 1]
